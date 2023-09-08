@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\bin\Debug\net6.0\Desafio2_7daysOfCode.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\bin\Debug\net6.0\Desafio2_7daysOfCode.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\bin\Debug\net6.0\Desafio2_7daysOfCode.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\bin\Debug\net6.0\Desafio2_7daysOfCode.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\bin\Debug\net6.0\Desafio2_7daysOfCode.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\refint\Desafio2_7daysOfCode.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\Desafio2_7daysOfCode.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Desafio2_7daysOfCode\Desafio2_7daysOfCode\obj\Debug\net6.0\ref\Desafio2_7daysOfCode.dll
