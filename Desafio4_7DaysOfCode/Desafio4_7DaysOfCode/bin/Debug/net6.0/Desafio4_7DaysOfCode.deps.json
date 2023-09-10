@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio4_7DaysOfCode/1.0.0": {
+        "runtime": {
+          "Desafio4_7DaysOfCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio4_7DaysOfCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
